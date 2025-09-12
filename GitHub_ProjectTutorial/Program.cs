@@ -4,6 +4,12 @@
     {
         Console.WriteLine("Hello, World!");
     }
+ feature/registration
+    public void createAccount()
+    {
+        Console.WriteLine("profile created  successfully");
+    }
+
     public void UI()
     {
         Console.WriteLine("User Interface Code");
