@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello GitFlow, fix bugs ! ( v1.0.0)");
     }
 
     public void createAccount()
