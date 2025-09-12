@@ -4,8 +4,14 @@
     {
         Console.WriteLine("Hello, World!");
     }
-    public void UI ()
+    public void UI()
     {
         Console.WriteLine("User Interface Code");
-    }   
+    }  
+    public bool Authenticate (string username, string password)
+    {
+        // Authentication logic here
+        return true;
+    }
+    
 }
