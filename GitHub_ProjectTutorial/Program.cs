@@ -14,11 +14,11 @@
     public void UI()
     {
         Console.WriteLine("User Interface Code");
-    }  
-    public bool Authenticate (string username, string password)
+    }
+    public bool Authenticate(string username, string password)
     {
         // Authentication logic here
         return true;
     }
-    
+
 }
